@@ -94,7 +94,7 @@ These DAX formulas allowed for dynamic calculations and category-wise insights a
 
 ---
 
-## 🛠Tools & Technologies Used
+## Tools & Technologies Used
 
 | Tool            | Purpose                                |
 |------------------|----------------------------------------|
@@ -105,12 +105,3 @@ These DAX formulas allowed for dynamic calculations and category-wise insights a
 | **Canva**        | Custom background and layout styling   |
 | **GitHub**       | Version control and sharing project    |
 
----
-
-## 🚀 Getting Started
-
-To view and explore the dashboard:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/E-Commerce-Churn-Dashboard.git
